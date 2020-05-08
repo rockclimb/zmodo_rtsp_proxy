@@ -13,11 +13,9 @@ You should have received a copy of the GNU Lesser General Public License
 along with this library; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 **********/
-// "liveMedia"
+// "based on code from liveMedia"
 // Copyright (c) 1996-2020 Live Networks, Inc.  All rights reserved.
-// A 'ServerMediaSubsession' object that creates new, unicast, "RTPSink"s
-// on demand, from a H264 Elementary Stream video file.
-// C++ header
+// Copyright (c) 2020 Andrew Ross. All rights reserved.
 
 #ifndef _ZMODO_MEDIA_SUBSESSION_HH
 #define _ZMODO_MEDIA_SUBSESSION_HH
